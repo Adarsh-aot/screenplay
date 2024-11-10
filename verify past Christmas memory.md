@@ -6,14 +6,14 @@
 
 ### **Characters:**
 
-1. **Dr. Emily Carter** - Clinical psychologist with a composed exterior but hidden vulnerability.
-2. **Megan O’Donnell** - Tech-savvy hacker with a rebellious streak.
+1. **Dr. Emily Carter** - Clinical psychologist, composed but with a hidden agenda.
+2. **Megan O’Donnell** - Tech-savvy hacker, sarcastic and rebellious.
 3. **Ethan Holt** - Former detective, intuitive but burdened by guilt.
 4. **Liam Shaw** - Disgraced politician, manipulative and power-driven.
-5. **David Kim** - Entrepreneur with a hidden addiction.
+5. **David Kim** - Entrepreneur with a hidden addiction, defensive.
 6. **Felix Moreno** - Conspiracy theorist, anxious and paranoid.
-7. **Javier Torres** - Retired military officer, haunted by a mysterious incident.
-8. **Calvin Reid** - Ex-priest with a dark past.
+7. **Javier Torres** - Retired military officer, disciplined but haunted.
+8. **Calvin Reid** - Ex-priest, stoic with inner demons.
 9. **Miles Grayson** - Journalist known for exposing scandals, ruthless.
 10. **Jordan Blake** - Quiet artist, haunted by trauma.
 
@@ -21,348 +21,419 @@
 
 ### **Scene 1**
 
-*Setting: A dark, windowless room with a dim overhead light. The characters are all waking up, disoriented and wary. The walls are bare, and a dusty table with several folding chairs is in the center. A camera is mounted on the ceiling, its lens trained on them.*
+*Setting: A dimly lit room with sparse furnishings—a few folding chairs and a single table. The 10 characters wake up, groggy and disoriented. A faint camera hums in the corner.*
 
 **EMILY**  
-(quietly, eyeing the others)  
-Does anyone have any idea where we are?
+(whispering)  
+Does anyone remember how we got here?
 
 **ETHAN**  
-(grumbling)  
-No idea, but I’m not sticking around. Who’s behind this?
+(surveying the room)  
+No… but this doesn’t feel random.
 
 **MEGAN**  
 (sarcastic)  
-And here I thought my kidnappers would be more… upscale.
+And here I thought I was just being invited to a horror-themed escape room.
 
 **LIAM**  
-(smirking)  
-I’m more concerned with *why* we’re here. This isn’t some random abduction.
+(smiling grimly)  
+Whoever brought us here wants something.
 
 **DAVID**  
-(confused, glancing around)  
-I don’t remember… anything about how I got here. It’s like a blur.
+(scanning the others)  
+They can’t just expect us to sit around and wait.
 
 **FELIX**  
-(panicked)  
-This is some government experiment. I knew they were watching me.
+(nervously)  
+I don’t like this. Feels like they’re watching us… studying us.
 
 **JAVIER**  
-(firmly)  
-Everyone calm down. If we panic, we’ll get nowhere.
+(calmly)  
+Everyone needs to stay calm. Panicking won’t help.
 
 **CALVIN**  
-(muttering to himself)  
-Sins are punished in strange ways...
+(quietly)  
+Maybe we’re here for a reason—like a reckoning.
 
 **MILES**  
-(interrupting)  
-Did anyone do something recently they’re ashamed of? Something that might have triggered… this?
+(eyeing the camera)  
+Or maybe it’s payback. Question is, for what?
 
 **JORDAN**  
-(whispering, staring at the floor)  
-Sometimes, it’s what we don’t remember that gets us.
+(whispering)  
+Maybe... it’s something we all forgot.
 
 ---
 
 ### **Scene 2**
 
-*An intercom crackles to life, filling the room with a distorted, robotic voice.*
+*The intercom crackles, and a distorted, robotic voice speaks.*
 
 **VOICE**  
-Welcome. Each of you holds the key to your escape. Find it within… if you can.
-
-**FELIX**  
-(almost screaming)  
-Who are you? Why are you doing this?!
-
-**LIAM**  
-(sharply)  
-Save your breath. Whoever it is, they’re not answering.
+Welcome. Your past holds the key to your freedom. Reveal it, and you may leave.
 
 **MEGAN**  
-(eyeing the camera)  
-They’re watching us. And from the sound of it, they want something… something we have.
+(muttering)  
+So much for a straight answer.
+
+**LIAM**  
+(smiling coldly)  
+“Your past.” Sounds like they’re expecting confessions.
 
 **ETHAN**  
-(frowning)  
-“Find it within”? What are we supposed to do, meditate?
+But why us? What do we all have in common?
 
-**JORDAN**  
-(slightly dazed)  
-Maybe… it’s a confession. Something they want us to admit.
+**FELIX**  
+(wide-eyed)  
+This is an experiment. They’re making us dig into our darkest secrets.
 
 **DAVID**  
-(scoffing)  
-I have nothing to confess. This is just someone’s sick game.
+I don’t have any dark secrets. Maybe this is all a mistake.
 
 **EMILY**  
-(watching everyone closely)  
-But why *us*? We’re strangers. What could we possibly share?
-
-**CALVIN**  
-(murmuring)  
-We’re only strangers on the surface. Secrets go deeper.
+(calmly)  
+If you don’t have any, David, why are you here?
 
 **JAVIER**  
-(sternly)  
-Secrets or not, we need a plan. Let’s figure out what each of us remembers.
+(to everyone)  
+Let’s think rationally. What’s the last thing each of us remembers?
+
+**CALVIN**  
+(brooding)  
+Maybe they don’t want us to remember. Maybe that’s the game.
 
 **MILES**  
-(cynically)  
-Or maybe that’s exactly what they want—turn us against each other.
+(glaring)  
+Or maybe it’s a trap—to see if we’ll turn on each other.
 
 ---
 
 ### **Scene 3**
 
-*A drawer on the far side of the room slides open on its own. Inside is a tarnished bracelet. MEGAN picks it up, her expression turning solemn.*
+*A drawer slides open, revealing a small locket. MEGAN picks it up, her expression shifting.*
 
 **MEGAN**  
-(hesitating)  
 This… this was my sister’s.
 
+**JORDAN**  
+(softly)  
+Looks like they’re bringing out our ghosts.
+
 **LIAM**  
-(skeptical)  
-You’re sure? How would they know about something so personal?
+(sarcastically)  
+Your sister’s locket? They must’ve dug deep for that.
 
 **MEGAN**  
-(defensive)  
-I don’t know! But this is hers… I’d know it anywhere.
-
-**ETHAN**  
-(glaring at MEGAN)  
-So, they’re digging up pieces of our lives. What else are they planning to dredge up?
-
-**JAVIER**  
-(to MEGAN)  
-Did your sister… did something happen to her?
-
-**MEGAN**  
-(distantly)  
-Yes. She… disappeared. No one knows where she went, and I was blamed.
-
-**FELIX**  
-(wild-eyed)  
-See? They’re putting us here to face our demons. We’re all guilty of something.
-
-**DAVID**  
-(smirking)  
-And what are *you* guilty of, Felix? Not staying off those conspiracy forums?
+(defensively)  
+This is hers, alright. No one else could know.
 
 **CALVIN**  
-(cutting in)  
-Mock him all you want, but we all have something we’d rather not remember.
+(watching her closely)  
+Are they trying to remind us of something? Force us to remember?
+
+**ETHAN**  
+Maybe each of us has something here. Something we’d rather forget.
+
+**DAVID**  
+(scoffs)  
+This is absurd. We’re not here because of jewelry.
 
 **MILES**  
-(sighing)  
-Fine. But we’re here now, so let’s see if this bracelet leads us anywhere.
+No, but we’re here because of something. Let’s figure out what.
+
+**JAVIER**  
+(sternly)  
+If it’s memories they want, we’ll find out soon enough.
+
+**FELIX**  
+(muttering)  
+They’re unlocking pieces of our pasts… one by one.
 
 ---
 
 ### **Scene 4**
 
-*The intercom buzzes again.*
-
-**VOICE**  
-Only those who confront the past may leave. The rest… will remain.
-
-**LIAM**  
-(coldly)  
-Confront what? We’ve barely scratched the surface.
-
-**EMILY**  
-Maybe that’s the point. They want us to dig deeper, relive it all.
-
-**FELIX**  
-(reluctantly)  
-Alright, then. I’ll go first. I… I lied to someone. Hurt them badly. Never confessed.
-
-**JORDAN**  
-(softly)  
-Sometimes words hurt more than actions.
+*A new compartment opens, revealing a tarnished police badge. ETHAN picks it up, his face clouding over.*
 
 **ETHAN**  
-(skeptical)  
-Not sure that’s the type of confession they want. This feels… darker.
+(whispers)  
+This was mine… from a case I’d rather forget.
 
-**CALVIN**  
-(intensely)  
-Darker, yes. Something you bury so deep, you almost forget.
+**LIAM**  
+(grins)  
+So, you’re not as clean-cut as you seem.
 
-**DAVID**  
-(hiding his discomfort)  
-Well, maybe some things *should* stay buried.
+**ETHAN**  
+(glares)  
+I did what I had to do, alright?
 
 **MEGAN**  
-(sharp)  
-Or maybe it’s time we all face what we’ve done. If they know this much about us, they won’t let us go without it.
+(skeptical)  
+What did you have to do, exactly?
 
-**MILES**  
-(resigned)  
-Then let’s keep digging. See what else this room has in store.
+**ETHAN**  
+(shakes his head)  
+It doesn’t matter. None of it does. Not anymore.
+
+**EMILY**  
+But maybe that’s why we’re here—to face what we buried.
+
+**DAVID**  
+(smirking)  
+Maybe *you* buried things. Some of us just want to go home.
+
+**JAVIER**  
+(to DAVID)  
+You seem awfully defensive.
+
+**DAVID**  
+(sighs)  
+Can’t blame me for not buying into this twisted therapy session.
+
+**JORDAN**  
+(whispering)  
+Sometimes, the things we run from find us anyway.
 
 ---
 
 ### **Scene 5**
 
-*The lights flicker, and another compartment opens. Inside is a newspaper clipping of a hit-and-run accident. DAVID’s face goes pale.*
+*The intercom buzzes again, filling the room with static.*
 
-**DAVID**  
-(whispering)  
-This… this can’t be here. I was never caught…
-
-**JAVIER**  
-(suspiciously)  
-Never caught? You mean… you were involved?
-
-**DAVID**  
-(angrily)  
-It was an accident! I didn’t mean to… but I couldn’t turn back.
-
-**EMILY**  
-(studying him)  
-And now it’s here, staring you down. Do you feel guilty?
-
-**LIAM**  
-(mockingly)  
-Or are you more afraid of getting caught?
-
-**MEGAN**  
-(to DAVID)  
-Maybe we’re here to face more than just guilt. This could be our punishment.
-
-**ETHAN**  
-(firmly)  
-Enough. Let’s keep moving. This room isn’t done with us yet.
+**VOICE**  
+Confession is the key. Without it, you will remain.
 
 **FELIX**  
-(whispering, paranoid)  
-They know everything… They’re forcing us to look into the mirror.
+(shouting)  
+What do you want us to confess?!
 
-**JORDAN**  
-(almost inaudible)  
-But what happens when we don’t like what we see?
+**EMILY**  
+(quietly)  
+Our pasts. It’s all about what we’ve done.
+
+**CALVIN**  
+(grimly)  
+Confessions… but some of us have secrets buried too deep to share.
+
+**MEGAN**  
+(smirking)  
+Sounds like you’ve got something to hide, Calvin.
+
+**CALVIN**  
+(coldly)  
+And what if I do? I’m not the only one.
+
+**JAVIER**  
+(breaking the tension)  
+Enough. We’re all here for a reason. Let’s find out what.
+
+**DAVID**  
+(annoyed)  
+This isn’t going anywhere. We need to do something.
+
+**MILES**  
+But if we’re being forced to confess, someone in here might know more than they’re letting on.
 
 ---
 
 ### **Scene 6**
 
-*Another item is revealed: a framed photo of a young child. CALVIN picks it up, visibly shaken.*
-
-**CALVIN**  
-(murmuring)  
-I… I could have saved them. But I… I hesitated.
-
-**MILES**  
-(interrupting)  
-What do you mean, “hesitated”?
-
-**CALVIN**  
-(voice trembling)  
-It was a moment… a single moment. And that’s all it took for everything to fall apart.
-
-**LIAM**  
-(sarcastic)  
-The priest with regrets. How original.
-
-**EMILY**  
-(to CALVIN, softly)  
-Everyone’s haunted by something, Calvin. You’re not alone.
-
-**JAVIER**  
-(slightly defensive)  
-Is this supposed to be therapy? Because it feels more like torture.
+*A dusty envelope drops from the ceiling, marked with DAVID’s name. He picks it up, his hands trembling as he reads a note inside.*
 
 **DAVID**  
-(agitated)  
-So, what now? We just keep dredging up our nightmares until they let us out?
+(whispering, to himself)  
+No… they couldn’t know.
 
-**FELIX**  
-(hysterical)  
-They won’t let us out! This is a prison, and we’re here forever!
+**LIAM**  
+(amused)  
+Oh, but they do, don’t they?
 
 **MEGAN**  
-(defiantly)  
-We’ll get out. We just have to keep going.
+(curious)  
+What’s it say, David?
+
+**DAVID**  
+(angrily)  
+Nothing that concerns you.
+
+**JORDAN**  
+(softly)  
+Secrets only hurt when we hide them.
+
+**ETHAN**  
+(to DAVID)  
+You’re here for a reason. Just like the rest of us.
+
+**DAVID**  
+(bitterly)  
+You don’t know anything about me.
+
+**EMILY**  
+Maybe that’s the point. We’re here to see each other for who we really are.
+
+**CALVIN**  
+(chuckling)  
+Maybe we’re all just waiting to see who cracks first.
+
+**MILES**  
+(intense)  
+Then let’s keep going. Let’s see who’s willing to crack.
 
 ---
 
 ### **Scene 7**
 
-*The characters are tense, pacing around, anxiously eyeing one another.*
-
-**ETHAN**  
-(suspiciously, to MEGAN)  
-So, the bracelet… your sister’s. Is it why you’re here?
-
-**MEGAN**  
-(bitterly)  
-What does it matter? None of us are innocent.
-
-**JORDAN**  
-(quietly)  
-Maybe innocence isn’t the point. Maybe… it’s forgiveness.
-
-**DAVID**  
-(scoffs)  
-Forgiveness? This is revenge. Nothing more.
-
-**LIAM**  
-(to DAVID)  
-Speak for yourself. But you’re right about one thing—we’re here to pay.
+*Another compartment opens, revealing a photograph of a child. CALVIN picks it up, his face turning pale.*
 
 **CALVIN**  
-(gazing at the photo)  
-Then we pay. We have to, if there’s any chance of escape.
-
-**EMILY**  
-(firmly)  
-And if we don’t? If we refuse to confess?
-
-**FELIX**  
-(panicking)  
-Then we rot here! Forever!
+(trembling)  
+No… I thought I’d put this behind me.
 
 **JAVIER**  
-(to all)  
-Then let’s not give them the satisfaction. Let’s confront it all, and end this.
+(quietly)  
+But it found you, didn’t it?
+
+**MEGAN**  
+(to CALVIN)  
+Who is it?
+
+**CALVIN**  
+(whispering)  
+A child I… I didn’t save. I had a chance, but I didn’t take it.
+
+**LIAM**  
+(mockingly)  
+What kind of priest lets a child suffer?
+
+**CALVIN**  
+(defensive)  
+You don’t know anything about me.
+
+**MILES**  
+(smirking)  
+No one’s a saint in here, are they?
+
+**EMILY**  
+(whispering)  
+That’s what we’re here for… our failures.
+
+**ETHAN**  
+(cutting in)  
+Let’s keep going. We’re bound to figure this out.
 
 ---
 
 ### **Scene 8**
 
-*The final compartment opens, revealing a burned letter with EMILY’s name. The group stares at her, suspicious.*
+*The intercom crackles back to life.*
 
-**LIAM**  
-(narrowed eyes)  
-Care to explain, Dr. Carter?
-
-**EMILY**  
-(sighing deeply)  
-I… I brought you here. All of you.
+**VOICE**  
+Only the pure of heart may leave. The rest… will remain.
 
 **DAVID**  
+(mocking)  
+Pure of heart? We’re all damned if that’s the case.
+
+**LIAM**  
+(to the group)  
+So, who’s lying about their past?
+
+**MEGAN**  
+(smirking)  
+Maybe we all are.
+
+**JORDAN**  
+(softly)  
+We lie to ourselves most of all.
+
+**FELIX**  
+(muttering)  
+They’re forcing us to confront the worst parts of ourselves.
+
+**ETHAN**  
+(wryly)  
+Good luck with that, Felix.
+
+**EMILY**  
+But we can’t leave until we face it… all of it.
+
+**JAVIER**  
+Then let’s get this over with. Who’s next?
+
+---
+
+### **Scene 9**
+
+*The lights flicker and dim, then come back on. A book with a burned corner is revealed on the table. EMILY picks it up, face drawn.*
+
+**ETHAN**  
+(suspiciously)  
+What’s that, Emily?
+
+**EMILY**  
+(breathes deeply)  
+A reminder. Of what I lost.
+
+**MEGAN**  
+You’re saying you have something to confess?
+
+**EMILY**  
+(mysterious)  
+Maybe. We all do. But some things… aren’t easy to forgive.
+
+**DAVID**  
+(sneering)  
+So, you’re the saint, huh?
+
+**JAVIER**  
+Enough. We’ve all done things. Now, what did you do?
+
+**EMILY**  
+(slowly)  
+Sometimes, justice isn’t about forgiveness. It’s about understanding.
+
+**CALVIN**  
+(suspiciously)  
+Understanding what, exactly?
+
+---
+
+### **Scene 10**
+
+*The final compartment opens, revealing a letter with Emily’s name. The group stares at her in suspicion.*
+
+**LIAM**  
+(furious)  
+What’s this? You knew something?
+
+**EMILY**  
+(sighing)  
+Yes. I brought you all here.
+
+**MEGAN**  
 (shocked)  
-You what?
+What?
 
 **EMILY**  
 (bitterly)  
-You all destroyed lives—*my* life. This was the only way to make you see.
-
-**MEGAN**  
-(disbelieving)  
-So, you orchestrated this? Everything?
+Each of you destroyed a life close to me. This was the only way to make you understand.
 
 **ETHAN**  
-(accusing)  
-And now what? We confess and you let us walk free?
+(horrified)  
+You did all this… for revenge?
 
 **EMILY**  
-(somberly)  
-Confess. Repent. Or stay. It’s your choice.
+No… for justice. Only those who acknowledge their guilt can leave.
 
-*The room falls silent as they each confront the consequences of their actions, their fates uncertain.*
+**JORDAN**  
+(whispering)  
+And if we don’t?
+
+**EMILY**  
+(sternly)  
+Then you stay. Forever.
+
+*The room falls silent, each character left to grapple with the truth and their choices.*
 
 *FADE OUT.*
 
