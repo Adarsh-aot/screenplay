@@ -398,7 +398,8 @@ Understanding what, exactly?
 
 ---
 
-### **Scene 10**
+
+### **Scene 10** (Updated)
 
 *The final compartment opens, revealing a letter with Emily’s name. The group stares at her in suspicion.*
 
@@ -407,35 +408,72 @@ Understanding what, exactly?
 What’s this? You knew something?
 
 **EMILY**  
-(sighing)  
+(sighing, eyes heavy with grief)  
 Yes. I brought you all here.
 
 **MEGAN**  
 (shocked)  
-What?
+What? Why?
 
 **EMILY**  
-(bitterly)  
-Each of you destroyed a life close to me. This was the only way to make you understand.
+(voice trembling)  
+Because each of you played a part in destroying the one thing that mattered most to me—my daughter, Aone.
 
 **ETHAN**  
-(horrified)  
-You did all this… for revenge?
+(stunned)  
+Your daughter…?
 
 **EMILY**  
-No… for justice. Only those who acknowledge their guilt can leave.
+(tears glistening)  
+Aone was just a child, full of life, hope. But your actions, your selfish decisions, took her away from me.
+
+**CALVIN**  
+(defensive)  
+How could we have known? We didn’t—
+
+**EMILY**  
+(interrupting, a sudden sharpness in her tone)  
+No. You knew. Maybe not her name or her face, but you knew the lives you were impacting. Each bribe, every lie, each reckless action set off a chain that ended in her death.
+
+*The room falls silent, the weight of her words crushing them.*
 
 **JORDAN**  
-(whispering)  
-And if we don’t?
+(whispers)  
+It wasn’t just one of us… it was all of us?
 
 **EMILY**  
-(sternly)  
-Then you stay. Forever.
+(nods slowly)  
+Yes. Liam, with your schemes. Megan, with your hacking and leaks. Ethan, with your case that was botched… each of you contributed.
 
-*The room falls silent, each character left to grapple with the truth and their choices.*
+**DAVID**  
+(angrily)  
+So, what’s this? Some kind of elaborate revenge plot?
 
-*FADE OUT.*
+**EMILY**  
+(steadying herself)  
+No. This is justice. Only those who can truly confront their guilt and seek redemption can leave. The rest stay, haunted by what they’ve done.
+
+**MILES**  
+(realizing, horrified)  
+You mean… only the pure of heart?
+
+**EMILY**  
+(somberly)  
+Only those who face the truth without denial. The truth of Aone’s death, the truth of your roles in it.
+
+*Ethan drops to his knees, eyes closed, reliving a moment of failure. Calvin looks down, hands trembling as he remembers a phone call he ignored. Megan's face falls, guilt piercing her facade.*
+
+**JAVIER**  
+(softly)  
+We’re all guilty.
+
+**EMILY**  
+(voice cracking, but resolute)  
+Admit it, confront it… and maybe you can leave.
+
+---
+
+*FADE OUT as the characters stand in a circle, haunted, yet beginning to understand their part in Emily’s tragic loss.*
 
 ---
 
