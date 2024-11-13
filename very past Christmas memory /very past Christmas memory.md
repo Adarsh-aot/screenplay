@@ -1,287 +1,315 @@
-**Title:** The Recollection Room
+**Title:** *The Confession Room*
 
-**Genre:** Thriller / Mystery / Psychological
-
----
-
-### **Characters:**
-1. **Dr. Emily Carter** - Clinical psychologist, composed but with a hidden agenda.
-2. **Megan O’Donnell** - Tech-savvy hacker, sarcastic and rebellious.
-3. **Ethan Holt** - Former detective, intuitive but burdened by guilt.
-4. **Liam Shaw** - Disgraced politician, manipulative and power-driven.
-5. **David Kim** - Entrepreneur with a hidden addiction, defensive.
-6. **Felix Moreno** - Conspiracy theorist, anxious and paranoid.
-7. **Javier Torres** - Retired military officer, disciplined but haunted.
-8. **Calvin Reid** - Ex-priest, stoic with inner demons.
-9. **Miles Grayson** - Journalist known for exposing scandals, ruthless.
-10. **Jordan Blake** - Quiet artist, haunted by trauma.
+**Characters:**
+- **Hacker** - Tech-savvy, haunted by his mistakes.
+- **Developer** - Ruthless and cold, with a dark past.
+- **Doctor** - Struggles with remorse over a patient's death.
+- **Nurse** - Complicit in the Doctor's failure.
+- **Detective** - Corrupt, hiding a sinister truth.
+- **Driver** - Haunted by a hit-and-run incident.
+- **Priest** - A man of faith who failed in a crucial moment.
+- **Mother** - Orchestrator of the confessions, hiding her true purpose.
 
 ---
 
-### **Scene 1**
+### Scene 1
+**INT. LOCKED ROOM - UNKNOWN LOCATION - MORNING**
 
-*Setting: A dimly lit room with sparse furnishings—a few folding chairs and a single table. The 10 characters wake up, groggy and disoriented. A faint camera hums in the corner.*
+*Eight strangers wake up, disoriented, in a locked, dimly lit room. They look around, confused.*
 
-**EMILY**  
-(whispering)  
-Does anyone remember how we got here?
+**Hacker:** Where... where are we?
 
-**ETHAN**  
-(surveying the room)  
-No… but this doesn’t feel random.
+**Nurse:** I don't remember... was just going about my day.
 
-**MEGAN**  
-(sarcastic)  
-And here I thought I was just being invited to a horror-themed escape room.
+**Developer:** (scanning the room) Some kind of joke, right?
 
-**LIAM**  
-(smiling grimly)  
-Whoever brought us here wants something.
+**Voice on Speaker:** *You are all here because you are hiding a truth. If you want to leave, each of you must confess.*
 
-**DAVID**  
-(scanning the others)  
-They can’t just expect us to sit around and wait.
+*The group nervously laughs, brushing it off as a prank.*
 
-**FELIX**  
-(nervously)  
-I don’t like this. Feels like they’re watching us… studying us.
+**Detective:** Alright, who’s behind this? It’s got to be a joke.
 
-**JAVIER**  
-(calmly)  
-Everyone needs to stay calm. Panicking won’t help.
+**Mother:** (uneasy) This doesn’t feel like a joke.
 
-**CALVIN**  
-(quietly)  
-Maybe we’re here for a reason—like a reckoning.
-
-**MILES**  
-(eyeing the camera)  
-Or maybe it’s payback. Question is, for what?
-
-**JORDAN**  
-(whispering)  
-Maybe... it’s something we all forgot.
-
-*The intercom crackles, and a distorted, robotic voice speaks.*
+*An uneasy silence fills the room as they realize this is real.*
 
 ---
 
-### **Scene 2**
+### Scene 2
+*A red envelope appears mysteriously on a small pedestal in the center.*
 
-**VOICE**  
-Welcome. Your past holds the key to your freedom. Reveal it, and you may leave.
+**Hacker:** (eyeing it, hesitant) That’s... that’s a data packet. It reminds me of... something.
 
-**MEGAN**  
-(muttering)  
-So much for a straight answer.
+**Driver:** What’s it to you? You know something?
 
-**LIAM**  
-(smiling coldly)  
-“Your past.” Sounds like they’re expecting confessions.
+**Hacker:** (hesitates, then sighs) Fine. Years back, I tried to blackmail someone... a girl. I thought I deleted everything. Guess I was wrong.
 
-**ETHAN**  
-But why us? What do we all have in common?
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
 
-**FELIX**  
-(wide-eyed)  
-This is an experiment. They’re making us dig into our darkest secrets.
-
-**DAVID**  
-I don’t have any dark secrets. Maybe this is all a mistake.
-
-**EMILY**  
-(calmly)  
-If you don’t have any, David, why are you here?
-
-**JAVIER**  
-(to everyone)  
-Let’s think rationally. What’s the last thing each of us remembers?
-
-**CALVIN**  
-(brooding)  
-Maybe they don’t want us to remember. Maybe that’s the game.
-
-**MILES**  
-(glaring)  
-Or maybe it’s a trap—to see if we’ll turn on each other.
+*A faint unlocking sound, but the door remains closed. The group begins to feel the weight of the situation.*
 
 ---
 
-### **Scene 3**
+### Scene 3
+*Another red envelope appears on the pedestal. The Developer picks it up, studying it with a cold smirk.*
 
-*A drawer slides open, revealing a small locket. MEGAN picks it up, her expression shifting.*
+**Developer:** (revealing an ID card) Yeah, I recognize this. She was an intern... I bullied her, forced her to quit.
 
-**MEGAN**  
-This… this was my sister’s.
+**Nurse:** (angrily) You’re... proud of that?
 
-**JORDAN**  
-(softly)  
-Looks like they’re bringing out our ghosts.
+**Developer:** Proud? No. Just didn't care. I do what’s necessary.
 
-**LIAM**  
-(sarcastically)  
-Your sister’s locket? They must’ve dug deep for that.
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
 
-**MEGAN**  
-(defensively)  
-This is hers, alright. No one else could know.
-
-**CALVIN**  
-(watching her closely)  
-Are they trying to remind us of something? Force us to remember?
-
-**ETHAN**  
-Maybe each of us has something here. Something we’d rather forget.
-
-**DAVID**  
-(scoffs)  
-This is absurd. We’re not here because of jewelry.
-
-**MILES**  
-No, but we’re here because of something. Let’s figure out what.
-
-**JAVIER**  
-(sternly)  
-If it’s memories they want, we’ll find out soon enough.
-
-**FELIX**  
-(muttering)  
-They’re unlocking pieces of our pasts… one by one.
+*The room shifts slightly, building tension.*
 
 ---
 
-### **Scene 4**
+### Scene 4
+*A hospital attendance chart materializes on the pedestal. The Doctor and Nurse exchange a glance.*
 
-*A compartment opens, revealing a photograph of a young girl with bright eyes. The room shifts with a palpable silence.*
+**Doctor:** (picks it up, grimacing) We... we ignored her calls for help that night. Left early. She died because we weren’t there.
 
-**JAVIER**  
-(frowning)  
-Who is she?
+**Driver:** Aren’t you supposed to save lives?
 
-**EMILY**  
-(whispers, almost to herself)  
-Someone… none of you would forget if you knew the truth.
+**Doctor:** (murmurs) I was careless... I’m sorry.
 
-**MEGAN**  
-(looking around)  
-Does she mean something to one of us?
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
 
-**ETHAN**  
-(uneasy)  
-More than one, it seems.
+*Everyone is visibly affected by the weight of these confessions.*
 
 ---
 
-### **Scene 5**
+### Scene 5
+*A folder marked "CASE FILE" appears, catching the Detective's attention.*
 
-*A dusty envelope marked with DAVID’s name drops onto the table. He picks it up, hands trembling.*
+**Detective:** (sighs, picking it up) I remember this case. Took a bribe to close it. Called it an accident, but it was more than that.
 
-**DAVID**  
-(whispering, voice cracking)  
-No… this can’t be.
+**Mother:** (narrowing her eyes) You denied justice.
 
-**LIAM**  
-(amused)  
-Oh, but it is, isn’t it? What does it say?
+**Detective:** (quietly) I did... and I can’t change that.
 
-**DAVID**  
-(glances at the group, eyes filled with fear)  
-It’s about that night… the night she was taken.
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
 
-**CALVIN**  
-(grimly)  
-The girl… the one in the photograph.
-
-**EMILY**  
-(voice hardening)  
-And what did you do that night, David?
-
-**DAVID**  
-(broken)  
-I tried to save her, but… I failed.
+*The door creaks, still firmly shut.*
 
 ---
 
-### **Scene 6**
+### Scene 6
+*A cracked car mirror materializes. The Driver's eyes widen in recognition.*
 
-*A sudden realization washes over the group as ETHAN picks up a tarnished police badge from another drawer.*
+**Driver:** (shaking) I know what this is. I... I hit a girl. Left her there on the road.
 
-**ETHAN**  
-(whispers)  
-This was mine. I led the investigation… and it went cold.
+**Priest:** You just... drove away?
 
-**JORDAN**  
-(softly, almost breaking)  
-We all let her down, didn’t we?
+**Driver:** (low voice) I panicked... couldn’t face the consequences.
 
-**FELIX**  
-(whispering, wide-eyed)  
-She was someone’s daughter. This is about her.
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
+
+*The group grows more somber, fear beginning to replace disbelief.*
 
 ---
 
-### **Scene 7**
+### Scene 7
+*A piece of cloth appears, frayed and torn. The Priest reaches for it with trembling hands.*
 
-*The intercom buzzes, filling the room with static.*
+**Priest:** I saw her, lying there... I could have helped. But I told myself it wasn’t my duty.
 
-**VOICE**  
-Only the pure of heart may leave. The rest… will remain.
+**Doctor:** (shocked) You’re a priest. How could you?
 
-**MEGAN**  
-(smirking, hiding fear)  
-Pure of heart? Good luck with that.
+**Priest:** (voice breaking) I was... afraid. Afraid to face what it meant.
 
-**JAVIER**  
-(to the group)  
-So, who will face what they did?
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
 
-**ETHAN**  
-(somberly)  
-Or didn’t do.
+*The atmosphere becomes increasingly oppressive.*
 
 ---
 
-### **Scene 8**
+### Scene 8
+*A small, brightly decorated notebook with childish doodles appears. The Mother picks it up, a mixture of sorrow and rage on her face.*
 
-*A small, worn-out diary appears in the center of the table, untouched.*
+**Mother:** (whispering) This was my daughter’s. I wasn’t there when she needed me... not enough, anyway. She reached out... and I ignored her.
 
-**JORDAN**  
-(voice shaking)  
-I drew her once… before she vanished.
+**Hacker:** (softly) Your daughter... was she...?
 
-**MILES**  
-(sneering)  
-And some of us wrote stories that should’ve stayed buried.
+**Mother:** (nods) She’s the one you all wronged. Each of you played a part.
 
-**EMILY**  
-(eyes filled with restrained pain)  
-She was more than just a story. More than a headline. She deserved better… from all of us.
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
+
+*The door creaks louder, but remains shut.*
 
 ---
 
-### **Final Scene: Scene 9**
-
-*The lights flicker and dim. Silence stretches, broken only by shallow breaths.*
-
-**ETHAN**  
-(looking at EMILY)  
-Who was she, really?
-
-**EMILY**  
-(voice trembling, a tear slipping down)  
-My daughter. You were all there, in some way. Your actions, your silence—it all led here.
-
-**CALVIN**  
-(whispers, eyes wide)  
-This room… it’s not just for us. It’s for her.
-
-*The revelation settles in. Each character’s face reflects the weight of shared guilt.*
-
-**VOICE**  
-Only the truth will set you free.
-
-*FADE OUT.*
+Here’s an expansion of scenes 9 to 14, focusing on each character’s individual confessions with dialogue that deepens the suspense and tension among the group.
 
 ---
 
-**THE END**
+### Scene 9
+**INT. LOCKED ROOM - CONTINUOUS**
+
+*Another red envelope appears, revealing a school report card. The **Nurse** picks it up, her hands shaking.*
+
+**Nurse:** (whispers) I know what this is… the night we ignored her calls, she was trying to get better. (pauses, struggling) She’d just gotten this report, wanted to show me. I told her I didn’t have time...
+
+**Doctor:** (somber) We all thought it was just one more patient, but… we left her when she needed us most.
+
+**Detective:** And neither of you thought to stay?
+
+**Nurse:** (defensively) Don’t you judge me. What about your bribes, Detective?
+
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
+
+*The tension rises as the group silently absorbs the confession.*
+
+---
+
+### Scene 10
+*A small envelope labeled "CASE CLOSED" materializes. The **Detective** picks it up, unable to meet the others' eyes.*
+
+**Detective:** (grimly) I took money from the hospital to make her case disappear. (pauses) Claimed it was just an accident… that no one was at fault.
+
+**Driver:** (angrily) You knew the truth and covered it up?
+
+**Detective:** (voice trembling) I was paid to say it wasn’t anyone’s fault. Just an accident, another statistic.
+
+**Priest:** (in disbelief) For money, you buried her justice?
+
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
+
+*The air becomes heavy with the weight of their combined guilt.*
+
+---
+
+### Scene 11
+*The next item appears: a cracked compact mirror. The **Driver** freezes as he recognizes it.*
+
+**Driver:** (almost to himself) I remember this… she dropped it. I… I was the one who hit her with my car. I didn’t even stop to see if she was alive.
+
+**Mother:** (accusatory) You left her there, on the cold pavement.
+
+**Driver:** (ashamed) I didn’t know what to do. I thought someone else would help her.
+
+**Priest:** (under his breath) There was no one else… only us, it seems.
+
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
+
+*The Driver lowers his head, avoiding the others’ stares.*
+
+---
+
+### Scene 12
+*A small rosary lies on the floor. The **Priest** reaches for it, visibly distressed.*
+
+**Priest:** I saw her that night… broken, lying there. I thought, if I stopped, I’d have to face what happened… maybe even lose my place in the church. (pauses) So I walked away.
+
+**Developer:** (coldly) So much for forgiveness, Father.
+
+**Priest:** (whispers) I abandoned her… and myself.
+
+**Mother:** (with cold fury) You turned away when she needed you most. What good is your faith if it crumbles when tested?
+
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
+
+*The room feels more stifling as the confessions pile up.*
+
+---
+
+### Scene 13
+*A small, well-worn book appears, covered in colorful stickers. The **Mother** picks it up, tears in her eyes.*
+
+**Mother:** (voice trembling) This was my daughter’s. She loved to draw in it, to share every little thought. (pauses, struggling) But I… I was never there. I didn’t see her pain… until it was too late.
+
+**Hacker:** (softly) She was… just a child, wasn’t she?
+
+**Mother:** (brokenly) Yes. And all of you… you took her away. Bit by bit, choice by choice.
+
+**Voice on Speaker:** *Confession accepted. Partially unlocked.*
+
+*The others look away, their remorse growing unbearable.*
+
+---
+
+### Scene 14
+*The room becomes eerily silent. The final object appears: a torn piece of fabric, stained with dried blood. Everyone stares, realizing the full weight of their involvement.*
+
+**Mother:** (voice filled with sorrow and rage) This… this was her favorite dress. The one she wore the night she… (voice breaking) the night she was taken from me.
+
+**Priest:** (guilty) We all failed her… each of us, in some way.
+
+**Developer:** (whispering) We could have stopped it. We could have… (trails off)
+
+**Voice on Speaker:** *Final confession. All parts unlocked.*
+
+*The door unlocks with a loud click, swinging open to reveal a dark, empty corridor.*
+
+---
+
+### Scene 15
+**INT. LOCKED ROOM - LATER**
+
+*The Mother stands at the center of the group, everyone staring at her, shocked and disturbed.*
+
+**Mother:** (sighs) You understand now. I wanted you all to feel what you did to her, to relive every moment you stripped from her life. (voice trembling) I want you to carry this with you forever... because I carry her absence every day.
+
+**Priest:** (whispering) So this... this is all your doing?
+
+**Mother:** Yes. You needed to understand, to see yourselves for what you are. (with conviction) This was her justice.
+
+*She looks each of them in the eye, her gaze cold and resolute.*
+
+**Voice on Speaker:** *Final confession. The story is complete.*
+
+*The door slowly opens with a heavy groan, revealing a dark corridor.*
+
+---
+
+### Scene 16
+*The group stands before the open door, hesitant. Each one bears the burden of their confessions, looking lost and defeated.*
+
+**Detective:** (to Mother) Will we ever really leave this place?
+
+**Mother:** (coldly) She will never leave me. Now you carry her too.
+
+*One by one, the group members step through the door, somber and remorseful.*
+
+---
+Here’s the scene modified to reflect the Priest’s experience, where he is the only one who sees the ghostly figure of the girl, and the Driver denies her presence.
+
+---
+
+### Scene 17
+**INT. LOCKED ROOM - EMPTY - MOMENTS LATER**
+
+*The last few people are stepping through the open door, their footsteps echoing as they leave the dim, silent room. **The Priest** is about to exit when he notices a small, dusty chair in the far corner. He freezes, staring.*
+
+*In the chair sits the faint, ghostly figure of a young girl, clutching a small notebook. Her eyes are wide and sorrowful, fixed on him. A chill fills the air as the Priest takes a step closer, unable to look away.*
+
+**Priest:** (whispering, shaken) Who… who are you?
+
+*The girl’s expression deepens, sadness filling her gaze. She opens her mouth, her voice soft and distant, like an echo.*
+
+**Ghostly Girl:** (whispering) Why didn’t you help me?
+
+*The Priest stumbles back, his face pale, and turns to the **Driver**, who is waiting by the door.*
+
+**Priest:** (urgently, pointing) Do you see her? The girl… sitting right there in that chair?
+
+**Driver:** (frowning, looking around) What are you talking about? There’s no one there.
+
+*The Priest turns back to the chair, his heart pounding. The girl is gone; the chair now sits empty and still. He takes a shaky breath, his mind racing.*
+
+**Driver:** (concerned) You coming? Or are you seeing ghosts now?
+
+*The Priest looks at the empty chair one last time, haunted by what he’s seen.*
+
+**Priest:** (to himself, under his breath) She was there… I know she was there.
+
+*He hesitates, then exits, glancing back as the door slowly closes behind him. The room goes dark and silent, a chilling breeze passing through. Just as the door clicks shut, a faint whisper echoes through the empty room:*
+
+**Voice on Speaker:** *Remember me.*
+
+*The door locks with a final, echoing click, leaving only silence.*
+
+**FADE OUT**
+
+---
