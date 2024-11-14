@@ -6,7 +6,7 @@
 - **Detective** - Corrupt, hiding a sinister truth.
 - **Driver** - Haunted by a hit-and-run incident.
 - **Priest** - A man of faith who failed in a crucial moment.
-- **Mother** - Orchestrator of the confessions, hiding her true purpose.
+- **DR Emily** - Orchestrator of the confessions, hiding her true purpose.
 
 ---
 
@@ -29,7 +29,7 @@
 
 **Detective:** (nervous but defiant) Alright, who’s behind this? I’m not falling for it.
 
-**Mother:** (shivers, whispering) No... this doesn’t feel like a joke.
+**DR Emily:** (shivers, whispering) No... this doesn’t feel like a joke.
 
 *A chilling silence fills the room as the reality of the situation begins to sink in. Each one glances at the others, uncertain and wary.*
 
@@ -85,7 +85,7 @@
 
 **Detective:** (grimacing) Took a bribe to call this case an accident. Said it was... nobody’s fault.
 
-**Mother:** (staring him down) You sold her justice for money?
+**DR Emily:** (staring him down) You sold her justice for money?
 
 **Detective:** (quietly) I did. (pauses) And I can’t undo it.
 
@@ -126,13 +126,13 @@
 ---
 
 ### Scene 8
-*A brightly decorated notebook with childlike doodles appears. **Mother** picks it up, her expression a mixture of sorrow and fury.*
+*A brightly decorated notebook with childlike doodles appears. **DR Emily** picks it up, her expression a mixture of sorrow and fury.*
 
-**Mother:** (whispering) This was my daughter’s. She needed me, but I was too distracted... too wrapped up in my own life.
+**DR Emily:** (whispering) This was my daughter’s. She needed me, but I was too distracted... too wrapped up in my own life.
 
 **Hacker:** (softly) She... was she...?
 
-**Mother:** (nods, trembling) She’s the one each of you hurt. You all played a part.
+**DR Emily:** (nods, trembling) She’s the one each of you hurt. You all played a part.
 
 **Voice on Speaker:** *Confession accepted. Partially unlocked.*
 
@@ -184,7 +184,7 @@
 
 **Priest:** (voice trembling) I told myself it wasn’t my problem. I let my fear overtake my duty.
 
-**Mother:** (venomously) You had the power to help, and you chose to look away.
+**DR Emily:** (venomously) You had the power to help, and you chose to look away.
 
 **Voice on Speaker:** *Confession accepted. Partially unlocked.*
 
@@ -195,13 +195,13 @@
 ### Scene 13
 **INT. LOCKED ROOM - LATER**
 
-*A tiny, colorful book decorated with stickers appears, its cover worn and faded. **Mother** picks it up with trembling hands, her face filled with sorrow and barely concealed rage.*
+*A tiny, colorful book decorated with stickers appears, its cover worn and faded. **DR Emily** picks it up with trembling hands, her face filled with sorrow and barely concealed rage.*
 
-**Mother:** (whispering) This was hers... My daughter’s. She poured her little heart into this, her dreams, her joys... and her pain. But none of you cared.
+**DR Emily:** (whispering) This was hers... My daughter’s. She poured her little heart into this, her dreams, her joys... and her pain. But none of you cared.
 
 **Hacker:** (nervously) She was... she was just a kid?
 
-**Mother:** (broken, voice cracking) Yes. You all took her piece by piece, choice by choice. She was just a child. And now she's gone.
+**DR Emily:** (broken, voice cracking) Yes. You all took her piece by piece, choice by choice. She was just a child. And now she's gone.
 
 *The group collectively flinches, haunted by the enormity of their guilt.*
 
@@ -214,7 +214,7 @@
 ### Scene 14
 *The last object appears—a delicate, bloodstained piece of torn fabric. Everyone falls silent as they stare at it, recognizing it as a part of the young girl's dress.*
 
-**Mother:** (holding the fabric, her voice like ice) This was the dress she wore the night she was taken from me... taken from life. (pauses, looking each person in the eye) And each of you played a part.
+**DR Emily:** (holding the fabric, her voice like ice) This was the dress she wore the night she was taken from me... taken from life. (pauses, looking each person in the eye) And each of you played a part.
 
 **Priest:** (voice trembling) We failed her... all of us, didn’t we?
 
@@ -229,13 +229,13 @@
 ### Scene 15
 **INT. LOCKED ROOM - MOMENTS LATER**
 
-*The group stands at the threshold, hesitant and deeply shaken. No one moves. **Mother** stands at the center, cold and unyielding.*
+*The group stands at the threshold, hesitant and deeply shaken. No one moves. **DR Emily** stands at the center, cold and unyielding.*
 
-**Mother:** (staring each of them down) Do you understand now? I brought you here to face yourselves, to feel every ounce of pain you caused her… and me.
+**DR Emily:** (staring each of them down) Do you understand now? I brought you here to face yourselves, to feel every ounce of pain you caused her… and me.
 
 **Detective:** (in a hushed voice) You... you set this up?
 
-**Mother:** Yes. I needed each of you to see yourselves for what you really are. (pauses, her voice chilling) This was her justice.
+**DR Emily:** Yes. I needed each of you to see yourselves for what you really are. (pauses, her voice chilling) This was her justice.
 
 *The group members look at each other, horrified and remorseful. The open door beckons them, yet they seem frozen with dread.*
 
@@ -248,13 +248,13 @@
 ### Scene 16
 **INT. LOCKED ROOM - OPEN DOORWAY**
 
-*One by one, the group members step toward the doorway, each carrying a haunted expression as they approach the darkness beyond. The **Detective** pauses, glancing back at **Mother**.*
+*One by one, the group members step toward the doorway, each carrying a haunted expression as they approach the darkness beyond. The **Detective** pauses, glancing back at **DR Emily**.*
 
 **Detective:** (barely audible) Will we ever really leave this room? Or will this follow us?
 
-**Mother:** (coldly) She will never leave me. (her gaze hardens) Now, she will never leave any of you.
+**DR Emily:** (coldly) She will never leave me. (her gaze hardens) Now, she will never leave any of you.
 
-*Each member takes a final, somber glance at **Mother**, knowing their lives will never be the same.*
+*Each member takes a final, somber glance at **DR Emily**, knowing their lives will never be the same.*
 
 *One by one, they disappear into the darkness of the hallway beyond, their footsteps fading into silence.*
 
