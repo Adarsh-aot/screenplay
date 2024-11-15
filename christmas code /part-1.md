@@ -1,4 +1,4 @@
-```plaintext
+
 **Title: "The Christmas Code"**
 
 **FADE IN:**
@@ -314,4 +314,4 @@ The lights flicker one last time. Suddenly—BLACKOUT.
 The room is silent. The sound of DISTANT SIRENS can be heard. 
 
 **FADE OUT.**
-```
+
