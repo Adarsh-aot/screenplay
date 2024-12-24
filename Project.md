@@ -1,7 +1,153 @@
 
+
 ---
 
-### **Project Title: Dynamic CMS - A Modular Content Management System**
+### **1. Project Title:** DjangoCart - A Full-Featured E-commerce Website  
+
+#### **Overview**  
+DjangoCart is a robust and scalable e-commerce website developed using Django. It provides an intuitive shopping experience for users and an efficient management interface for administrators. With a focus on clean architecture, security, and modularity, DjangoCart is designed to be a real-world ready application.
+
+---
+
+### **Features and Functionalities**
+
+#### **1. User Features**
+- **User Registration & Authentication**:  
+  - Email-based registration and login.  
+  - Social login integration (Google, Facebook) using `django-allauth`.
+- **User Dashboard**:  
+  - View order history, manage addresses, and update account details.
+- **Product Browsing**:  
+  - Product categories and filters (price range, ratings, and more).  
+  - Search bar with autocomplete.
+- **Shopping Cart**:  
+  - Add, remove, and update quantities of products.  
+  - Save cart state even after user logs out.
+- **Wishlist**:  
+  - Add favorite items for future purchases.
+- **Product Reviews & Ratings**:  
+  - Allow users to leave ratings and feedback on products.
+
+#### **2. Admin Features**
+- **Admin Dashboard**:  
+  - View sales reports, user activity, and inventory stats.
+- **Product Management**:  
+  - Add, edit, and delete products with image upload and category assignment.
+- **Order Management**:  
+  - Track, update, and manage customer orders.
+- **Discount Coupons**:  
+  - Create and manage promotional codes.
+
+#### **3. Core Functionalities**
+- **Product Pages**:  
+  - Display product details (name, price, description, stock availability, and reviews).  
+  - Multiple images per product with zoom functionality.
+- **Payment Gateway Integration**:  
+  - Secure online payment using Razorpay, Stripe, or PayPal APIs.
+- **Order Tracking**:  
+  - Allow users to track the status of their orders.
+- **Shipping Options**:  
+  - Provide multiple delivery options (standard, express).
+
+#### **4. Advanced Features**
+- **Recommendation System**:  
+  - Show related products based on user activity and past purchases.  
+- **SEO Optimization**:  
+  - Generate dynamic meta tags and sitemaps for search engine indexing.  
+- **Email Notifications**:  
+  - Send emails for order confirmation, shipping updates, and promotions.  
+- **Analytics (Admin)**:  
+  - View top-selling products, sales trends, and customer demographics.
+
+---
+
+### **Technology Stack**
+
+#### **Backend**
+- **Django**: Framework for developing the backend and admin interface.  
+- **Django REST Framework (DRF)**: For building APIs to connect the frontend (if required).  
+
+#### **Frontend**
+- **Django Templates**: For server-side rendering.  
+- **Bootstrap or TailwindCSS**: For responsive and modern design.  
+
+#### **Database**
+- **PostgreSQL/MySQL**: To store user, product, and order data.  
+
+#### **Payment Integration**
+- **Razorpay/Stripe/PayPal APIs**: For secure payment processing.  
+
+#### **Hosting**
+- **Heroku/AWS EC2**: For hosting the backend.  
+- **S3 Bucket**: For storing product images.  
+
+#### **Additional Tools**
+- **Celery with Redis**: For handling asynchronous tasks like sending emails.  
+- **Docker**: For containerizing the application.  
+- **GitHub Actions**: For CI/CD pipelines.
+
+---
+
+### **Development Phases**
+
+#### **1. Planning**
+- Define user roles and core features.  
+- Sketch wireframes for pages: Homepage, Product Page, Cart, Checkout, Admin Dashboard.  
+- Design the database schema (User, Product, Category, Order, etc.).
+
+#### **2. Backend Development**
+- Set up Django project and apps (e.g., `users`, `products`, `orders`).  
+- Create models for Users, Products, Categories, Orders, and Reviews.  
+- Implement user authentication using `django-allauth`.  
+- Build RESTful APIs for cart and product management using DRF (if a separate frontend is used).
+
+#### **3. Frontend Development**
+- Use Django templates for rendering dynamic pages.  
+- Design pages using Bootstrap or TailwindCSS.  
+- Implement JavaScript for interactive features (e.g., live cart updates).
+
+#### **4. Payment Integration**
+- Integrate Razorpay or Stripe for payment processing.  
+- Implement webhooks to handle payment success/failure notifications.
+
+#### **5. Testing**
+- Write unit tests for models, views, and APIs using Django’s testing framework.  
+- Conduct end-to-end testing to simulate user actions (e.g., adding to cart, checking out).  
+
+#### **6. Deployment**
+- Deploy the project on Heroku or AWS.  
+- Use PostgreSQL in the production environment.  
+- Configure static file storage with S3.
+
+---
+
+### **Database Schema**
+
+1. **User Table**:  
+   Fields: `username`, `email`, `password`, `is_admin`, `date_joined`.
+
+2. **Product Table**:  
+   Fields: `name`, `description`, `price`, `stock`, `category`, `image`.
+
+3. **Category Table**:  
+   Fields: `name`, `slug`.
+
+4. **Order Table**:  
+   Fields: `user`, `product`, `quantity`, `total_price`, `order_status`, `created_at`.
+
+5. **Review Table**:  
+   Fields: `user`, `product`, `rating`, `review_text`, `created_at`.
+
+---
+
+### **Expected Outcomes**
+- A fully functional e-commerce website with user and admin interfaces.  
+- Hands-on experience with Django, APIs, and payment integration.  
+- A live, deployable project suitable for showcasing in interviews.  
+
+---
+
+### **2. Project Title: Dynamic CMS - A Modular Content Management System**
 
 #### **Overview**  
 The project aims to build a **Dynamic Content Management System** that enables users to easily create, manage, and modify digital content without extensive technical expertise. The system will be modular, customizable, and adaptable to different industries such as blogging, e-commerce, and education.
